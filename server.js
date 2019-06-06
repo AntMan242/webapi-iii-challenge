@@ -1,3 +1,4 @@
+require('dotenv').config();
 const express = 'express';
 const cors = require('cors');
 const helmet = require('helmet');
